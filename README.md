@@ -4,3 +4,7 @@
 - Criação de um Banco de Dados.
 - Constraints (Restrições).
 - Criação de Tabelas.
+- Auto Increment (Inseri Números Automaticamente).
+- Tipos de Dados.
+- Alter Table (Alterar Tabelas).
+- Insert Into (Inserindo Dados em Tabelas).
