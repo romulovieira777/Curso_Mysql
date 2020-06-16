@@ -1,6 +1,6 @@
 # Curso Mysql
 ### Curso de Mysql Boson Treinamentos
-#### :computer: Temas abordados durante o curso foram:
+#### :computer: Temas abordados durante o curso foram: :minidisc:
 - Criação de um Banco de Dados.
 - Constraints (Restrições).
 - Criação de Tabelas.
@@ -21,3 +21,11 @@
 - Max (Valor Máximo)
 - Min (Valor Mínimo)
 - Avg (Média Aritmética)).
+- Rename Table (Renomeando Tabelas).
+- Update (Atualizar Registro).
+- Between (Seleção de Intervalos em Consultas).
+- Like e Not Like (Padrões de Caracteres).
+- Regexp (Expressões Regulares).
+- Deafault (Valores Padrão).
+- Mysqldump (Backup e Restauração).
+- Group By (Agrupamento de Registros).
