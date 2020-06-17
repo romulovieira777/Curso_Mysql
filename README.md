@@ -29,3 +29,6 @@
 - Deafault (Valores Padrão).
 - Mysqldump (Backup e Restauração).
 - Group By (Agrupamento de Registros).
+- Having (Filtra os Resultados do Agrupamento).
+- Views (Criando Tabelas Virtuais).
+- Joins (Junção de Dados entre Duas Tabelas ou Mais).
