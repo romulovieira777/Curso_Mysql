@@ -36,3 +36,4 @@
 - Funções Matemáticas (Soma, Subtração, Divisão, Mutiplicação, Divisão Inteira, Resto da Divisão).
 - Fuction (Criando Funções, ou seja, Rotinas Armazenadas).
 - Procedures (Procedimentos Armazenados).
+- Variáveis.
