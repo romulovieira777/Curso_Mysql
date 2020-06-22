@@ -42,3 +42,6 @@
 - Case (Bloco Condicionais).
 - Show (Mostra os Banco de Dados, Tabelas etc).
 - Desc (Mostra a Estrutura de uma Tabela por exemplo).
+- Loop (Estrutura de Repetição).
+- Repeat (Estrutura de Repetição).
+- While (Estrutura de Repetição).
