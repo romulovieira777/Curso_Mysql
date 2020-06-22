@@ -37,3 +37,8 @@
 - Fuction (Criando Funções, ou seja, Rotinas Armazenadas).
 - Procedures (Procedimentos Armazenados).
 - Variáveis.
+- IF (Bloco Condicionais).
+- Else (Bloco Condicionais).
+- Case (Bloco Condicionais).
+- Show (Mostra os Banco de Dados, Tabelas etc).
+- Desc (Mostra a Estrutura de uma Tabela por exemplo).
