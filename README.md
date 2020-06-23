@@ -45,3 +45,6 @@
 - Loop (Estrutura de Repetição).
 - Repeat (Estrutura de Repetição).
 - While (Estrutura de Repetição).
+- Interate (Estrutura de Repetição).
+- Triggers (É um Gatilho).
+- Gerenciamento de Usuários no Sistema.
