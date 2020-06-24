@@ -48,3 +48,6 @@
 - Interate (Estrutura de Repetição).
 - Triggers (É um Gatilho).
 - Gerenciamento de Usuários no Sistema.
+- Grant (Privilégio de Acesso).
+- Rvoke (Retirada de Privilégio).
+- Colunas Calculadas.
