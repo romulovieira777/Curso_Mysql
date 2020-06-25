@@ -51,3 +51,5 @@
 - Grant (Privilégio de Acesso).
 - Rvoke (Retirada de Privilégio).
 - Colunas Calculadas.
+- Enum (É Usando para Criar Enumeração).
+- Union (União de Dois ou mais Resultados da Consulta).
