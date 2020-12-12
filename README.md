@@ -53,3 +53,6 @@
 - Colunas Calculadas.
 - Enum (É Usando para Criar Enumeração).
 - Union (União de Dois ou mais Resultados da Consulta).
+
+Link para o curso 100% Gratuito.
+[Boson Treinamentos](https://www.youtube.com/watch?v=fmerTu7dWk8&list=PLucm8g_ezqNrWAQH2B_0AnrFY5dJcgOLR)
